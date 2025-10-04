@@ -33,7 +33,7 @@ It is structured to gradually introduce topics from basic programs to advanced d
 
 - Each solution is a **standalone C++ file**.  
 - Files are organized by **topic** and **problem type**.  
-- Naming convention: `ProblemNumber_ProblemName.cpp` (e.g., `1_TwoSum.cpp`).  
+- Naming convention: `ProblemNumber_ProblemName.cpp` (e.g., `1.TwoSum.cpp`).  
 
 ---
 
