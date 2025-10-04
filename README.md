@@ -1,39 +1,52 @@
-<p align="center">
-  <img src="https://github.com/Anmol20Sharma/Anmol20Sharma/blob/main/assets/Banner.png" alt="Profile Banner" />
-</p>
+ # 🧠 DSA – LeetCode Problems in C++
 
-# 🧠 DSA – LeetCode Problems in C++
+[![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)](https://isocpp.org/)  
+[![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange)](https://leetcode.com/)  
+[![Progress](https://img.shields.io/badge/Progress-Beginner%20to%20Intermediate-green)](#)
 
-Welcome to my **DSA (Data Structures & Algorithms)** repository!  
-This repo contains my **C++ solutions** to various **LeetCode problems**, starting from basic C++ programs and gradually moving toward DSA concepts.
+A repository containing **C++ solutions** to **LeetCode problems**, aimed at building strong **Data Structures & Algorithms** skills. Solutions start from basic C++ programs and gradually cover DSA concepts.
 
 ---
 
 ## 📚 About
 
-This repository is part of my learning journey to strengthen my **C++ fundamentals** and enhance my **problem-solving skills** through regular practice on LeetCode.  
-Currently, it includes beginner-level problems and a few array-based solutions.
+This repository is part of my **learning journey** to strengthen C++ fundamentals and improve problem-solving skills.  
+It is structured to gradually introduce topics from basic programs to advanced data structures and algorithms.
 
 ---
 
-## 📁 Current Progress
+## 📁 Topics Covered
 
-- ✅ Basic C++ programs  
-- ✅ Beginner LeetCode problems  
-- 🔹 Arrays (in progress)  
-- ⏳ More topics (like Strings, Linked Lists, Trees, etc.) will be added as I continue learning
+| Category | Status |
+|----------|--------|
+| Basic C++ Programs | ✅ Completed |
+| Beginner LeetCode Problems | ✅ Completed |
+| Arrays | 🔹 In Progress |
+| Strings | ⏳ Coming Soon |
+| Linked Lists | ⏳ Coming Soon |
+| Trees & Graphs | ⏳ Coming Soon |
+| Dynamic Programming | ⏳ Coming Soon |
 
 ---
 
-## 🧩 Note
+## 📝 Repository Structure
 
-- Each file contains a **standalone C++ solution**.  
-- You can open and run any file using your preferred C++ compiler or IDE (e.g., VS Code, Code::Blocks, Replit).  
-- Feel free to explore, test, and modify the code to improve your understanding.  
-- Contributions and suggestions are welcome!
+- Each solution is a **standalone C++ file**.  
+- Files are organized by **topic** and **problem type**.  
+- Naming convention: `ProblemNumber_ProblemName.cpp` (e.g., `1_TwoSum.cpp`).  
+
+---
+
+## 🧩 Notes
+
+- Solutions are tested and ready to run with any **C++ compiler or IDE**.  
+- Feel free to explore, modify, and learn from the code.  
+- Contributions, suggestions, and discussions are always welcome.  
 
 ---
 
 <p align="center">
-  Happy Coding! 🚀
+  Happy Coding! 🚀  
+  <br>
+  <sub>Built with ❤️ and C++</sub>
 </p>
